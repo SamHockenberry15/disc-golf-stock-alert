@@ -1,0 +1,24 @@
+import constants
+import urllib.request
+import os
+from util_functions import UtilFunctions
+from file_parser import FileParser as fp
+
+class FileRetriever:
+
+    innova_filepath = "../../data/"+UtilFunctions.today_year_month_day()+"-"+constants.INNOVA+".xlsx"
+
+    def __init__(self, discCompany):
+        self.discCompany = discCompany
+
+
+    def retrieve_data(self):
+        if self.discCompany == constants.INNOVA:
+            if not os.path.exists(self.innova_filepath):
+                self.__retrieve_file_for_innova()
+            fp.parse_innova_file()
+
+
+
+    def __retrieve_file_for_innova(self):
+        urllib.request.urlretrieve(constants.INNOVA_LINK, self.innova_filepath)

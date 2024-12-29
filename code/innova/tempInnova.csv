@@ -1,0 +1,324 @@
+Product Number,Current In-Stock,Product Name,Flight Numbers
+102.0,out,Holiday Halo Star Toro,4 | 2 | 1 | 3
+103.0,0,Proto Glow DX Aviar,2 | 3 | 0 | 1
+104.0,out,Proto Glow Ch Leopard3,7 | 5 | -2 | 1
+105.0,0,Proto Glow Ch Shryke,13 | 6 | -2 | 2
+106.0,0,Proto Glow Ch Tern,12 | 6 | -3 | 2
+107.0,out,Proto Glow Ch Valkyrie,9 | 4 | -2 | 2
+108.0,0,Eveliina Swirly Star Destroyer,12 | 5 | -1 | 3
+110.0,0,Proto Glow DX Roc,4 | 4 | 0 | 3
+111.0,0,Proto Glow Ch Mako3,5 | 5 | 0 | 0
+114.0,0,Halo St Aero,3 | 6 | 0 | 0
+115.0,0,Halo St Mako3,5 | 5 | 0 | 0
+116.0,0,Halo St Roc3 ,5 | 4 | 0 | 3
+117.0,0,Halo St Rollo,5 | 6 | -4 | 1
+120.0,0,Halo St Aviar,2 | 3 | 0 | 1
+121.0,0,Halo St Beast,10 | 5 | -2 | 2
+122.0,0,Halo St Boss,13 | 5 | -1 | 3
+123.0,0,Halo St Destroyer,12 | 5 | -1 | 3
+124.0,0,Halo St Firebird,9 | 3 | 0 | 4
+125.0,0,Halo St Invader,3 | 2 | 0 | 1
+126.0,0,Halo St Leopard 3,7 | 5 | -2 | 1
+127.0,0,Halo St Mamba,11 | 6 | -5 | 1
+128.0,0,Halo St Mystere,11 | 6 | -2 | 2
+129.0,0,Halo St Roadrunner,9 | 5 | -4 | 1
+130.0,0,Halo St Savant,9 | 5 | -1 | 2
+131.0,0,Halo St Shryke,13 | 6 | -2 | 2
+132.0,0,Halo St Sidewinder,9 | 5 | -3 | 1
+133.0,0,Halo St Tern,12 | 6 | -3 | 2
+134.0,0,Halo St Thunderbird,9 | 5 | 0 | 2
+135.0,0,Halo St TL3,8 | 4 | -1 | 1
+136.0,0,Halo St Valkyrie,9 | 4 | -2 | 2
+137.0,0,Halo St Wraith,11 | 5 | -1 | 3
+202.0,0,DX Condor,4 | 6 | 0 | 2
+205.0,0,DX Alien,4 | 2 | 0 | 1
+206.0,0,DX Cobra,4 | 5 | -2 | 2
+207.0,0,DX Jay,5 | 4 | 0 | 1
+208.0,0,DX Lion,5 | 4 | 0 | 2
+209.0,0,DX Mako3 ,5 | 5 | 0 | 0
+210.0,0,DX Manta,5 | 5 | -2 | 1
+211.0,0,DX Roc  ,4 | 4 | 0 | 3
+212.0,0,DX Roc3,5 | 4 | 0 | 3
+213.0,0,DX RocX3,5 | 4 | 0 | 3.5
+214.0,0,DX Rollo,5 | 6 | -4 | 1
+215.0,0,DX Shark,4 | 4 | 0 | 2
+216.0,0,DX Sonic ,1 | 2 | -4 | 0
+217.0,0,DX Stingray  ,4 | 5 | -3 | 1
+218.0,0,DX Wolf,4 | 3 | -4 | 1
+219.0,0,DX Wombat3,5 | 6 | -1 | 0
+1402.0,0,DX Ape,13 | 5 | 0 | 4
+1403.0,0,DX Archangel,8 | 6 | -4 | 1
+1404.0,0,DX Aviar Classic  ,2 | 3 | 0 | 0
+1405.0,0,DX Aviar Putter,2 | 3 | 0 | 1
+1406.0,0,DX Aviar3,3 | 2 | 0 | 2
+1407.0,0,DX AviarX3,3 | 2 | 0 | 3
+1408.0,0,DX Beast,10 | 5 | -2 | 2
+1409.0,0,DX Beast - 139,10 | 5 | -2 | 2
+1410.0,0,DX Birdie,1 | 2 | 0 | 0
+1411.0,0,DX Boss ,13 | 5 | -1 | 3
+1412.0,0,DX Cheetah,6 | 4 | -2 | 2
+1413.0,0,DX Dart  ,3 | 4 | 0 | 0
+1414.0,0,DX Destroyer,12 | 5 | -1 | 3
+1415.0,0,DX Dragon ,8 | 5 | -2 | 2
+1416.0,0,DX Eagle,7 | 4 | -1 | 3
+1417.0,0,DX Firebird,9 | 3 | 0 | 4
+1418.0,0,DX Gator,5 | 2 | 0 | 4
+1419.0,0,DX Invader  ,3 | 2 | 0 | 1
+1420.0,0,DX IT,7 | 6 | -2 | 1
+1421.0,0,DX Katana  ,13 | 5 | -3 | 3
+1422.0,0,DX Leopard ,6 | 5 | -2 | 1
+1423.0,0,DX Leopard3,7 | 5 | -2 | 1
+1424.0,0,DX Mamba,11 | 6 | -5 | 1
+1425.0,0,DX Mamba 130-139,11 | 6 | -5 | 1
+1426.0,0,DX Mirage ,3 | 4 | -3 | 0
+1427.0,0,DX Orc,10 | 4 | -1 | 3
+1428.0,0,DX Polecat,1 | 3 | 0 | 0
+1429.0,0,DX Rhyno ,2 | 1 | 0 | 3
+1430.0,out,DX Sidewinder - 139,9 | 5 | -3 | 1
+1431.0,0,DX Sidewinder,9 | 5 | -3 | 1
+1432.0,0,DX Skeeter,5 | 5 | -1 | 1
+1433.0,0,DX TeeBird ,7 | 5 | 0 | 2
+1434.0,0,DX TeeBird3,8 | 4 | 0 | 2
+1435.0,0,DX Thunderbird ,9 | 5 | 0 | 2
+1436.0,0,DX TL3 ,8 | 4 | -1 | 1
+1437.0,0,DX Valkyrie,9 | 4 | -2 | 2
+1438.0,0,DX Whale,2 | 3 | 0 | 1
+1439.0,0,DX Wraith  ,11 | 5 | -1 | 3
+1440.0,0,DX Xero,2 | 3 | 0 | 0
+302.0,out,KC Pro Lion,5 | 4 | 0 | 2
+303.0,0,Pro Roc KC,4 | 4 | 0 | 3
+1502.0,0,Pro Aviar JK ,2 | 3 | 0 | 2
+1503.0,0,Pro Aviar KC  ,2 | 3 | 0 | 2
+1504.0,0,Pro Aviar Yeti,2 | 3 | 0 | 1
+1505.0,0,Pro Whale KC,2 | 3 | 0 | 1
+1506.0,0,R-Pro Aviar  ,2 | 3 | 0 | 1
+1507.0,0,R-Pro Dart  ,3 | 4 | 0 | 0
+1508.0,0,R-Pro Pig  ,3 | 1 | 0 | 3
+1509.0,0,R-Pro Rhyno,2 | 1 | 0 | 3
+1510.0,0,R-Pro Xero,2 | 3 | 0 | 0
+1602.0,0,Pro Beast,10 | 5 | -2 | 2
+1603.0,0,Pro Boss,13 | 5 | -1 | 3
+1604.0,0,Pro Corvette,14 | 6 | -2 | 2
+1605.0,0,Pro Destroyer,12 | 5 | -1 | 3
+1606.0,0,Pro Gorgon,10 | 6 | -3 | 1
+1607.0,0,Pro Katana,13 | 5 | -3 | 3
+1608.0,0,Pro Leopard,6 | 5 | -2 | 1
+1609.0,0,Pro Shryke,13 | 6 | -2 | 2
+1610.0,0,Pro Thunderbird,9 | 5 | 0 | 2
+1611.0,0,Pro Valkyrie,9 | 4 | -2 | 2
+1612.0,0,Pro Wraith,11 | 5 | -1 | 3
+402.0,0,Nexus Alien,4 | 2 | 0 | 1
+405.0,0,XT Atlas,5 | 4 | 0 | 1
+406.0,0,XT Mako3,5 | 5 | 0 | 0
+1702.0,0,XT Aviar,2 | 3 | 0 | 1
+1703.0,0,XT Aviar3,3 | 2 | 0 | 2
+1704.0,0,XT AviarX3,3 | 2 | 0 | 3
+1705.0,0,XT Bullfrog,3 | 1 | 0 | 1
+1706.0,0,XT Dart,3 | 4 | 0 | 0
+1707.0,0,XT Invader  ,3 | 4 | 0 | 0
+1708.0,0,XT Nova,2 | 3 | 0 | 0
+1709.0,0,XT Whale,2 | 3 | 0 | 1
+1710.0,0,XT Xero,2 | 3 | 0 | 0
+502.0,0,GStar Mako3,5 | 5 | 0 | 0
+1802.0,0,GStar Aviar Putter,2 | 3 | 0 | 1
+1803.0,0,GStar Beast,10 | 5 | -2 | 2
+1804.0,0,GStar Boss,13 | 5 | -1 | 3
+1805.0,0,GStar Charger ,13 | 5 | -1 | 2
+1806.0,out,GStar Colossus,14 | 5 | -2 | 3
+1807.0,0,GStar Corvette,14 | 6 | -2 | 2
+1808.0,0,GStar Destroyer  ,12 | 5 | -1 | 3
+1809.0,out,GStar Firebird,9 | 3 | 0 | 4
+1810.0,0,GStar Gorgon,10 | 6 | -3 | 1
+1811.0,0,GStar Hawkeye,7 | 5 | -1 | 1
+1812.0,0,GStar IT,7 | 5 | -1 | 1
+1813.0,out,GStar Invictus,10 | 5 | -1 | 2
+1814.0,0,GStar Leopard,6 | 5 | -2 | 1
+1815.0,0,GStar Leopard3,7 | 5 | -2 | 1
+1816.0,0,GStar Mamba,11 | 6 | -5 | 1
+1817.0,0,GStar Racer,12 | 6 | -1 | 2
+1818.0,0,GStar Roadrunner,9 | 5 | -4 | 1
+1819.0,0,GStar Shryke ,13 | 6 | -2 | 2
+1820.0,0,GStar Sidewinder,9 | 5 | -3 | 1
+1821.0,0,GStar TeeBird,7 | 5 | 0 | 2
+1822.0,0,GStar TeeBird3,8 | 4 | 0 | 2
+1823.0,0,GStar Tern,12 | 6 | -3 | 2
+1824.0,0,GStar Thunderbird,9 | 5 | 0 | 2
+1825.0,0,GStar TL3,8 | 4 | -1 | 1
+1826.0,0,GStar Valkyrie,9 | 4 | -2 | 2
+1827.0,0,GStar Wraith,11 | 5 | -1 | 3
+1902.0,0,BLZ Ch Beast,10 | 5 | -2 | 2
+1903.0,0,BLZ Ch Boss,13 | 5 | -1 | 3
+1904.0,0,BLZ Ch Destroyer,12 | 5 | -1 | 3
+1905.0,0,BLZ Ch Katana,13 | 5 | -3 | 3
+1906.0,0,BLZ Ch Wraith,11 | 5 | -1 | 3
+802.0,0,Ch Atlas,5 | 4 | 0 | 1
+803.0,0,Ch Jay,5 | 4 | 0 | 1
+804.0,out,Ch Lion,5 | 4 | 0 | 2
+805.0,0,Ch Mako3  ,5 | 5 | 0 | 0
+806.0,0,Ch Roc3,5 | 4 | 0 | 3
+807.0,0,Ch RocX3  ,5 | 4 | 0 | 3.5
+808.0,0,Ch Rollo,5 | 6 | -4 | 1
+809.0,0,Ch Wombat3,5 | 6 | -1 | 0
+2002.0,0,Ch Ape ,13 | 5 | 0 | 4
+2003.0,0,Ch Beast ,10 | 5 | -2 | 2
+2004.0,0,Ch Boss,13 | 5 | 0 | 3
+2005.0,0,Ch Caiman,5.5 | 2 | 0 | 4
+2006.0,out,Ch Colossus,14 | 5 | -1 | 3
+2007.0,0,Ch Corvette,14 | 6 | -1 | 2
+2008.0,0,Ch Daedalus,13 | 6 | -3 | 2
+2009.0,0,Ch Dart,3 | 4 | 0 | 0
+2010.0,0,Ch Destroyer,12 | 5 | -1 | 3
+2011.0,0,Ch Eagle,7 | 4 | -1 | 3
+2012.0,0,Ch Firebird  ,9 | 3 | 0 | 4
+2013.0,0,Ch Firestorm  ,14 | 4 | -1 | 3
+2014.0,0,Ch Hawkeye ,7 | 5 | -1 | 1
+2015.0,0,Ch IT,7 | 6 | -2 | 1
+2016.0,out,Ch Katana,13 | 5 | -2 | 3
+2017.0,0,Ch Leopard  ,6 | 5 | -2 | 1
+2018.0,0,Ch Leopard3 ,7 | 5 | -2 | 1
+2019.0,0,Ch Mamba,11 | 6 | -5 | 1
+2020.0,out,Ch Monarch,10 | 5 | -4 | 1
+2021.0,0,Ch Mystere,11 | 6 | -2 | 2
+2022.0,0,Ch Orc,10 | 4 | -1 | 3
+2023.0,0,Ch Panther,5 | 4 | -2 | 1
+2024.0,0,Ch Rhyno,2 | 1 | 0 | 3
+2025.0,0,Ch Roadrunner,9 | 5 | -4 | 1
+2026.0,0,Ch Savant,9 | 5 | -1 | 2
+2027.0,0,Ch Shryke ,13 | 6 | -1 | 2
+2028.0,0,Ch Shryke - 139g,13 | 6 | -1 | 2
+2029.0,0,Ch Sidewinder ,9 | 5 | -3 | 1
+2030.0,0,Ch TeeBird ,7 | 5 | 0 | 2
+2031.0,0,Ch TeeBird3  ,8 | 4 | 0 | 2
+2032.0,0,Ch Tern,12 | 6 | -2 | 2
+2033.0,out,Ch Tern - 139g,12 | 6 | -2 | 2
+2034.0,0,Ch Thunderbird,9 | 5 | 0 | 2
+2035.0,0,Ch TL,7 | 5 | -1 | 1
+2036.0,0,Ch TL3,8 | 4 | -1 | 1
+2037.0,0,Ch Toro,4 | 2 | 1 | 3
+2038.0,0,Ch Valkyrie  ,9 | 4 | -2 | 2
+2039.0,0,Ch Wraith  ,11 | 5 | -1 | 3
+2040.0,0,Ch Xcaliber,12 | 5 | 0 | 4
+702.0,0,MF Ch Roc3,5 | 4 | 0 | 3
+2802.0,0,MF Ch Destroyer,12 | 5 | -1 | 3
+2803.0,0,MF Ch Gator,5 | 2 | 0 | 4
+2804.0,0,MF Ch Katana,13 | 5 | -2 | 3
+2805.0,0,MF Ch TeeBird3,8 | 4 | 0 | 2
+1002.0,0,St Lion - INNfuse,5 | 4 | 0 | 2
+2102.0,0,St Destroyer - InnVision ,12 | 5 | -1 | 3
+2103.0,0,St Eagle - INNfuse,7 | 4 | -1 | 3
+2104.0,0,St Firebird - InnVision,9 | 3 | 0 | 4
+2105.0,0,St Wraith - InnVision ,11 | 5 | -1 | 3
+1102.0,0,St Alien,4 | 2 | 0 | 1
+1103.0,0,St Atlas,5 | 4 | 0 | 1
+1104.0,0,St Jay,5 | 4 | 0 | 1
+1105.0,0,St Mako3  ,5 | 5 | 0 | 0
+1106.0,out,St Mako3 - 139,5 | 5 | 0 | 0
+1107.0,0,St Roc,4 | 4 | 0 | 3
+1108.0,0,St Roc3,5 | 4 | 0 | 3
+1109.0,0,St RocX3,5 | 4 | 0 | 3.5
+1110.0,0,St Rollo,5 | 6 | -4 | 1
+1111.0,0,St Shark,4 | 4 | 0 | 2
+1112.0,0,St Wombat3,5 | 6 | -1 | 0
+2302.0,0,St Animal ,2 | 1 | 0 | 1
+2303.0,0,St Ape,13 | 5 | 0 | 4
+2304.0,0,St Aviar P&A,2 | 3 | 0 | 1
+2305.0,0,St Aviar3 ,3 | 2 | 0 | 2
+2306.0,0,St AviarX3,3 | 2 | 0 | 3
+2307.0,0,St Beast,10 | 5 | -2 | 2
+2308.0,0,St Boss,13 | 5 | -1 | 3
+2309.0,0,St Caiman,5.5 | 2 | 0 | 4
+2310.0,0,St Charger ,13 | 5 | -1 | 2
+2311.0,0,St Colossus,14 | 5 | -2 | 3
+2312.0,0,St Colt ,3 | 4 | -1 | 1
+2313.0,0,St Corvette ,14 | 6 | -1 | 2
+2314.0,0,St Daedalus,13 | 6 | -3 | 2
+2315.0,0,St Destroyer  ,12 | 5 | -1 | 3
+2316.0,out,St Eagle,7 | 4 | -1 | 3
+2317.0,0,St Firebird  ,9 | 3 | 0 | 4
+2318.0,0,St Gator,5 | 2 | 0 | 4
+2319.0,0,St Gorgon,10 | 6 | -2 | 1
+2320.0,0,St Hawkeye ,7 | 5 | -1 | 1
+2321.0,0,St Invader,3 | 2 | 0 | 1
+2322.0,0,St Invictus,10 | 4 | 0 | 3
+2323.0,0,St IT ,7 | 6 | -2 | 1
+2324.0,0,St Katana,13 | 5 | -3 | 3
+2325.0,0,St Leopard   ,6 | 5 | -2 | 1
+2326.0,0,St Leopard3,7 | 5 | -2 | 1
+2327.0,0,St Mamba  ,11 | 6 | -5 | 1
+2328.0,0,St Mirage,3 | 4 | -3 | 0
+2329.0,0,St Orc,10 | 4 | -1 | 3
+2330.0,0,St Racer,12 | 6 | -1 | 2
+2331.0,0,St Rat,4 | 2 | 0 | 2
+2332.0,0,St Roadrunner  ,9 | 5 | -4 | 1
+2333.0,0,St Roadrunner - 130-139 Gram ,9 | 5 | -4 | 1
+2334.0,0,St Savant,9 | 5 | -1 | 2
+2335.0,0,St Shryke  ,13 | 6 | -2 | 2
+2336.0,0,St Sidewinder ,9 | 5 | -3 | 1
+2337.0,0,St TeeBird ,7 | 5 | 0 | 2
+2338.0,0,St TeeBird3,8 | 4 | 0 | 2
+2339.0,0,St Tern,12 | 6 | -3 | 2
+2340.0,0,St Tern - 130-139 Gram,12 | 6 | -3 | 2
+2341.0,0,St Thunderbird  ,9 | 5 | 0 | 2
+2342.0,0,St TL,7 | 5 | -1 | 1
+2343.0,0,St TL3,8 | 4 | -1 | 1
+2344.0,0,St Toro,4 | 2 | 1 | 3
+2345.0,0,St Valkyrie  ,9 | 4 | -2 | 2
+2346.0,0,St Wraith  ,11 | 5 | -1 | 3
+2347.0,0,St Xcaliber,12 | 5 | 0 | 4
+902.0,0,BS Star Mako3,5 | 5 | 0 | 0
+905.0,0,White BS Star Mako3,5 | 5 | 0 | 0
+2602.0,out,BS Star Boss,13 | 5 | -1 | 3
+2603.0,0,BS Star Charger,13 | 5 | -1 | 2
+2604.0,0,BS Star Destroyer  ,12 | 5 | -1 | 3
+2605.0,0,BS Star Wraith  ,11 | 5 | -1 | 3
+2608.0,0,White BS Star Charger,13 | 5 | -1 | 2
+2609.0,0,White BS Star Destroyer,12 | 5 | -1 | 3
+2610.0,0,White BS Star Firebird,9 | 3 | 0 | 4
+2611.0,0,White BS Star Roadrunner,9 | 5 | -4 | 1
+2612.0,0,White BS Star Toro,4 | 2 | 1 | 3
+2613.0,0,White BS Star Wraith,11 | 5 | -1 | 3
+1202.0,0,IDye St Mako3,5 | 5 | 0 | 0
+1203.0,0,IDye St Roc3,5 | 4 | 0 | 3
+1206.0,0,ID Ch Roc3,5 | 4 | 0 | 3
+2402.0,0,IDye St Charger,13 | 5 | -1 | 2
+2403.0,0,IDye St Destroyer,12 | 5 | -1 | 3
+2404.0,0,IDye St Firebird,9 | 3 | 0 | 4
+2405.0,0,IDye St IT,7 | 6 | -2 | 1
+2406.0,0,IDye St Roadrunner,9 | 5 | -4 | 1
+2407.0,0,IDye St  Toro,4 | 2 | 1 | 3
+2408.0,0,IDye St  Wraith,11 | 5 | -1 | 3
+2502.0,0,ID Ch Aviar,2 | 3 | 0 | 1
+2503.0,0,ID Ch Beast,10 | 5 | -2 | 2
+2504.0,0,ID Ch Boss,13 | 5 | 0 | 3
+2505.0,0,ID Ch Daedalus,13 | 6 | -3 | 2
+2506.0,0,ID Ch Destroyer,12 | 5 | -1 | 3
+2507.0,out,ID Ch Eagle,7 | 4 | -1 | 3
+2508.0,0,ID Ch Firebird,9 | 3 | 0 | 4
+2509.0,out,ID Ch Firestorm,14 | 4 | -1 | 3
+2510.0,out,ID Ch Hawkeye,7 | 5 | -1 | 1
+2511.0,0,ID Ch IT,7 | 6 | -2 | 1
+2512.0,0,ID Ch Katana,13 | 5 | -3 | 3
+2513.0,0,ID Ch Leopard,6 | 5 | -2 | 1
+2514.0,0,ID Ch Leopard3,7 | 5 | -2 | 1
+2515.0,0,ID Ch Mamba,11 | 6 | -5 | 1
+2516.0,0,ID Ch Orc,10 | 4 | -1 | 3
+2517.0,0,ID Ch Roadrunner,9 | 5 | -4 | 1
+2518.0,0,ID Ch Sidewinder,9 | 5 | -3 | 1
+2519.0,0,ID Ch Teebird,7 | 5 | 0 | 2
+2520.0,0,ID Ch Teebird3,8 | 4 | 0 | 2
+2521.0,0,ID Ch Tern,12 | 6 | -2 | 2
+2522.0,0,ID Ch Thunderbird,9 | 5 | 0 | 2
+2523.0,0,ID Ch TL,7 | 5 | -1 | 1
+2524.0,0,ID Ch TL3,8 | 4 | -1 | 1
+2525.0,0,ID Ch Wraith,11 | 5 | -1 | 3
+1302.0,0,Classic Glow DX Roc,4 | 4 | 0 | 3
+472.0,out,Glow Ch RocX3,5 | 4 | 0 | 3.5
+2702.0,0,Classic Glow DX Aviar,2 | 3 | 0 | 1
+2703.0,0,Classic Glow DX Beast,10 | 5 | -2 | 2
+2704.0,0,Classic Glow DX TL,7 | 5 | -1 | 1
+2705.0,0,Classic Glow DX Valkyrie,9 | 4 | -2 | 2
+2706.0,0,Classic Glow DX Wraith,11 | 5 | -1 | 3
+2707.0,0,Classic Glow Ch Leopard3,7 | 5 | -2 | 1
+2708.0,0,Classic Glow Ch Shryke,13 | 6 | -1 | 2
+2709.0,0,Classic Glow Ch Tern,12 | 6 | -2 | 2
+2710.0,0,Classic Glow Ch Valkyrie,9 | 4 | -2 | 2

@@ -16,7 +16,7 @@ class FileRetriever:
         if self.discCompany == constants.INNOVA:
             if not os.path.exists(self.innova_filepath):
                 self.__retrieve_file_for_innova()
-            fp.parse_innova_file()
+            return fp.parse_innova_file()
 
 
 

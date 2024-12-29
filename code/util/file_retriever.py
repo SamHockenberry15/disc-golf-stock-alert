@@ -19,6 +19,10 @@ class FileRetriever:
             return fp.parse_innova_file()
 
 
+    def delete_file(self):
+        if self.discCompany == constants.INNOVA:
+            if os.path.exists(self.innova_filepath):
+                os.remove(self.innova_filepath)
 
     def __retrieve_file_for_innova(self):
         urllib.request.urlretrieve(constants.INNOVA_LINK, self.innova_filepath)

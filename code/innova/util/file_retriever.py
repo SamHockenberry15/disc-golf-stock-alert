@@ -1,12 +1,14 @@
-import constants
+
 import urllib.request
 import os
-from util_functions import UtilFunctions
-from file_parser import FileParser as fp
+
+from code.innova.util import constants
+from code.innova.util.util_functions import UtilFunctions
+from code.innova.util.file_parser import FileParser as fp
 
 class FileRetriever:
 
-    innova_filepath = "../../data/"+UtilFunctions.today_year_month_day()+"-"+constants.INNOVA+".xlsx"
+    innova_filepath = "../" + UtilFunctions.today_year_month_day() +"-" + constants.INNOVA + ".xlsx"
 
     def __init__(self, discCompany):
         self.discCompany = discCompany

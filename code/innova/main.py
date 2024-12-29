@@ -1,16 +1,16 @@
-import pandas as pd
-
-from email_sender import EmailSender
-from file_retriever import FileRetriever
-from constants import INNOVA
-from disc_golf_stock_repository import DiscGolfStockRepository
+from util.email_sender import EmailSender
+from util.file_retriever import FileRetriever
+from util.constants import INNOVA
+from repo.disc_golf_stock_repository import DiscGolfStockRepository
 
 if __name__ == '__main__':
     # Download Latest File to Local
+    print("Download Latest Innova File...")
     innova_file_retriever = FileRetriever(INNOVA)
     innova_data = innova_file_retriever.retrieve_data()
 
     # Add new rows to sqlite db
+    print("Insert new data to database...")
     repo = DiscGolfStockRepository()
     repo.insert_new_stock(innova_data)
 
@@ -43,6 +43,7 @@ if __name__ == '__main__':
 
 
     #send comms
+    print("Send comms...")
     email = EmailSender()
     email.send_email(existing_products_now_in_stock_final.to_html(index=False),
                      new_products_in_stock_final.to_html(index=False),

@@ -8,7 +8,7 @@ from pandas import DataFrame
 class DiscGolfStockRepository:
 
     def __init__(self):
-        self.sqliteConnection = sqlite3.connect('../../data/DiscGolfStock.db')
+        self.sqliteConnection = sqlite3.connect('C:\\Users\\samho\\Documents\\GIT\\Disc-Golf-Stock-Alert\\data\\DiscGolfStock.db')
         self.cursor = self.sqliteConnection.cursor()
 
 

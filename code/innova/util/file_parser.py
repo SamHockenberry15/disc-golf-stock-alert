@@ -1,14 +1,13 @@
-from constants import INNOVA_DISC_PROCDUCT_NUMBER_END, INNOVA_BLACK_LIST_STOCK
-from util_functions import UtilFunctions
+from code.innova.util.constants import INNOVA_DISC_PROCDUCT_NUMBER_END, INNOVA_BLACK_LIST_STOCK, INNOVA
+from code.innova.util.util_functions import UtilFunctions
 import pandas as pd
-import constants
 import datetime
 
 class FileParser:
 
     @staticmethod
     def parse_innova_file():
-        file = pd.read_excel("../../data/"+UtilFunctions.today_year_month_day()+"-"+constants.INNOVA+".xlsx")
+        file = pd.read_excel("../" + UtilFunctions.today_year_month_day() +"-" + INNOVA + ".xlsx")
         innova_data = file.iloc[:,[2,7,8,9]]
         innova_data = innova_data.set_axis(['Product_Number', 'Current_In_Stock', 'Product_Name', 'Flight_Numbers'], axis=1)
 

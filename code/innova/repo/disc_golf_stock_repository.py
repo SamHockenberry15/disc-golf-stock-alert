@@ -1,14 +1,18 @@
+import os
 import sqlite3
 from datetime import date, timedelta
 
 import pandas
 from pandas import DataFrame
 
+from dotenv import load_dotenv
+
 
 class DiscGolfStockRepository:
 
     def __init__(self):
-        self.sqliteConnection = sqlite3.connect('C:\\Users\\samho\\Documents\\GIT\\Disc-Golf-Stock-Alert\\data\\DiscGolfStock.db')
+        load_dotenv()
+        self.sqliteConnection = sqlite3.connect(os.getenv("DB_FILE_LOCATION"))
         self.cursor = self.sqliteConnection.cursor()
 
 
